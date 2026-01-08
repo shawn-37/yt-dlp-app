@@ -2,6 +2,8 @@
 By @shawn37_ on discord
 
 # Requirements
-Python installed
-YT-DLP installed
-FFPMPEG installed
+**Python** installed
+
+**YT-DLP** installed
+
+**FFPMPEG** installed
